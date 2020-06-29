@@ -322,6 +322,11 @@ nav a:hover::before {
 	color: #232323!important;
 }
 
+.my-main-btn a:hover {
+	background-color: #fff;
+	color: #232323!important;
+}
+
 
 .first-content {
 	padding: 100px;
@@ -371,7 +376,25 @@ nav a:hover::before {
 	margin-right: 15px;
 }
 
+.first-content .my-main-btn {
+	display: inline-block;
+	margin-right: 15px;
+}
+
 .first-content .main-btn a {
+	display: inline-block;
+	border: 2px solid #fff;
+	padding: 8px 15px;
+	font-size: 13px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #fff;
+	text-decoration: none;
+	transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+.first-content .my-main-btn a {
 	display: inline-block;
 	border: 2px solid #fff;
 	padding: 8px 15px;
@@ -468,6 +491,17 @@ nav a:hover::before {
 	transition: all 0.5s;
 }
 
+.second-content .my-main-btn a {
+	display: inline-block;
+	border: 2px solid #fff;
+	padding: 8px 15px;
+	font-size: 13px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #fff;
+	text-decoration: none;
+	transition: all 0.5s;
+}
 
 .third-content {
 	text-align: left;
@@ -534,6 +568,19 @@ nav a:hover::before {
 	text-decoration: none;
 	transition: all 0.5s;
 }
+
+.third-content .my-main-btn a {
+	display: inline-block;
+	border: 2px solid #fff;
+	padding: 8px 15px;
+	font-size: 13px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #fff;
+	text-decoration: none;
+	transition: all 0.5s;
+}
+
 
 .third-content .col-md-6 {
 	margin: 0px;
