@@ -893,3 +893,8 @@ nav a:hover::before {
 	  	padding: 15px 20px;
 	}
 }
+
+.image {
+	height: 50%;
+	width: 50%;
+}
