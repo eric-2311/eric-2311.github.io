@@ -898,3 +898,23 @@ nav a:hover::before {
 	height: 50%;
 	width: 50%;
 }
+
+.image-small {
+	height: 10%;
+	width: 10%;
+	padding: 10px;
+	/* display: flex; */
+}
+
+.links-container {
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	display: flex;
+	/* flex-direction: row; */
+}
+
+.link-svg {
+	height: 50px;
+	width: 50px;
+}
