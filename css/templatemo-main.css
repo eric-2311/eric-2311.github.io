@@ -918,3 +918,12 @@ nav a:hover::before {
 	height: 50px;
 	width: 50px;
 }
+
+.email {
+	text-transform: lowercase;
+	margin: auto;
+}
+
+/* .side-nav {
+	padding-top: 30px;
+} */
