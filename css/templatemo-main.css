@@ -904,6 +904,7 @@ nav a:hover::before {
 	width: 10%;
 	padding: 10px;
 	/* display: flex; */
+	color: white;
 }
 
 .links-container {
@@ -917,6 +918,7 @@ nav a:hover::before {
 .link-svg {
 	height: 50px;
 	width: 50px;
+	color: white;
 }
 
 .email {
@@ -924,6 +926,10 @@ nav a:hover::before {
 	margin: auto;
 }
 
+.link-btn-container {
+	display: flex;
+	justify-content: space-between;
+}
 /* .side-nav {
 	padding-top: 30px;
 } */
